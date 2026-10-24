@@ -1,0 +1,20 @@
+
+{
+  "datasets": [
+    {
+      "name": "Business locations",
+      "url": "businesses.csv",
+      "type": "csv"
+    },
+    {
+      "name": "Population statistics",
+      "url": "population.csv",
+      "type": "csv"
+    },
+    {
+      "name": "Administrative boundaries",
+      "url": "boundaries.geojson",
+      "type": "geojson"
+    }
+  ]
+}
